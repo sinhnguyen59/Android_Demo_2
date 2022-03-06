@@ -1,4 +1,5 @@
 // Login with Google integration on Android app: https://developers.google.com/identity/sign-in/android/start-integrating
+// Github repository: https://github.com/sinhnguyen59/Android_Demo_2.git
 
 package com.example.demo_2;
 
